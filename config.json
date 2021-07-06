@@ -11,7 +11,7 @@
   "home": "/@/instagrammer.html",
   "display":"Linkinbio",
 
-  "msg": "You are being teleported to",
+  "msg": "",
 
   "title1": "Youtube",
   "link1": "https://www.youtube.com/c/CodeWithHarry/videos",
@@ -34,7 +34,7 @@
   "title7":"",
   "link7":"",
 
-  "bio": "This person has not setup a bio yet...",
+  "bio": "This is my #Secret bio...",
 
   "Topic1": "",
   "Topic2": ""
