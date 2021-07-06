@@ -1,23 +1,23 @@
 {
-  "user": "instagrammer",
-  "user_url": "instagrammer",
+  "user": "linkinbio",
+  "user_url": "linkinbio",
   "media": "https://instagram.com",
   "symbol": "@",
   "media_name": "Instagram",
-  "name": "Instagrammer",
+  "name": "Linkinbio",
   "photo": "https://cdn.glitch.com/35409746-8e4a-406e-ac47-16c4db92cad8%2F10x100profile.jpeg",
   "img_top": "150",
-  "img_margin": "0",
+  "img_margin": "10",
   "home": "/@/instagrammer.html",
-  "display":"instagrammer",
+  "display":"Linkinbio",
 
   "msg": "You are being teleported to",
 
-  "title1": "Link 1",
-  "link1": "/link.html",
+  "title1": "Youtube",
+  "link1": "https://www.youtube.com/c/CodeWithHarry/videos",
 
-  "title2": "Link 2",
-  "link2": "/link.html",
+  "title2": "Twitter",
+  "link2": "https://twitter.com/theXSSrat",
 
   "title3": "",
   "link3": "",
